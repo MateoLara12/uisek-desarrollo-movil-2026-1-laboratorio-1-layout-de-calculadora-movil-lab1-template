@@ -4,9 +4,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Mateo Lara
+- **Carrera**: Ingeniería Informática
+- **Fecha de entrega**: 16/10/2025
 
 ---
 
@@ -231,6 +231,9 @@ Al finalizar, cada estudiante debería poder:
 - Ver un TextField en la parte superior que refleja el texto ingresado.
 - Ver una cuadrícula de 4×4 botones debajo del TextField.
 - Interactuar con los botones y ver cómo se actualiza la pantalla.
+
+<img width="1916" height="1044" alt="image" src="https://github.com/user-attachments/assets/fc75ad44-200e-4714-a2a3-6c8614622776" />
+
 
 
 ### 6️⃣ Datos del docente
